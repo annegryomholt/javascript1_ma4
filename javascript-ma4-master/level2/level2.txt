@@ -1,0 +1,28 @@
+1- The DOM- the document object model, is an interface to web pages.
+It is essentially an API to the page, allowing programs to read and manipulate the page-
+content, stucture and style.
+
+2-document.getElementById
+ -document.getElementsByTagName(name)
+ -document.getElementsByClassName(name)
+
+3- Asynchronous requests will wait for a timer to finish or a request to respond
+while the rest of the code continues to execute.
+When the time is right a callback will set these asynchronous request into action.
+
+4- The sources tab in Chromes Developer Tool will allow you to see all of its content on the site,
+all its elements and script.
+
+5- JavaScript promise is an object that may produce a single value some timr in the future.
+Either a resolve value, or a reason that it is not resolved.
+A promise may be in one of 3 possible states: fulfilled, rejected or pending.
+
+6- Application program interface(API) is a set of routines, protocols, and tools for building
+software applications.
+An API specifies how software components should interact.
+
+7- JacaScript has events to provide a dynamic inerface to a webpage.These events are hooked to 
+elements in the DOM, and trough events that occur when the user or the browser manipulates a page.
+
+8- Event bubbling-When an event happens on an element, it first runs the handlers on it, then
+on its parent, then all the way up on other ancestors.
